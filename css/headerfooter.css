@@ -1,12 +1,21 @@
 header
 {
     position: fixed;
-    background-color: rgb(172, 48, 48,0.8);
+    background-color: rgb(172, 48, 48);
     box-shadow:  5px 5px 10px black;
     height: 10vh;
     left: 0;
     right: 0;
+    top: 7em;
 
+}
+.gov{
+    position: fixed;
+    background-color: #fff;
+    box-shadow:  5px 5px 10px rgb(226, 223, 223);
+    top: 0;
+    left: 0;
+    right: 0;
 }
 
 .navbar {

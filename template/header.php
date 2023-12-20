@@ -18,8 +18,13 @@
 </head>
 
 <body>
-
+<div class="gov">
+        <img src="img/govtec.png" alt="gov" srcset="" width="300">
+        <img src="img/pcb.png" alt="gov" srcset="" width="100">
+        </div>
     <header>
+       
+        
         <nav class="navbar">
             <!-- lista de icones de redes socias -->
             <ul class="icons">

@@ -121,7 +121,7 @@
     border: 1px solid transparent;
     margin: 15px;
     background-color: rgb(235, 140, 140);
-    width: 500px;
+    width: 400px;
     border-radius: 5px;
     height: 40vh;
     color: #fff;
@@ -237,7 +237,7 @@ button {
 /* Section de cadastro */
 #cadastro {
 
-    background-color: rgb(119, 31, 31, 0.7);
+    background-color: rgb(212, 199, 199);
     height: 110vh;
     text-align: center;
     padding: 2em;
@@ -275,7 +275,7 @@ button {
         justify-content: center;
         align-items: center;
 
-        padding-top: 0em;
+        padding-top: 6em;
         text-align: center;
 
     }
@@ -302,7 +302,7 @@ button {
 
     #sobre>h1 {
 
-        font-size: 30px;
+        font-size: 20px;
         padding-bottom: 10px;
     }
 
@@ -322,7 +322,7 @@ button {
 
         margin: 15px;
 
-        width: 400px;
+        width: 300px;
 
         height: auto;
 
